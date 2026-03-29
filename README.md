@@ -88,9 +88,3 @@ I believe technology is a form of art that raises moral questions in its applica
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-*"Technology is a form of art that raises moral questions in its application."*
-
-</div>
