@@ -8,7 +8,7 @@ Currently an algorithmic asset manager at **[@arte-group](https://github.com/art
 
 [![Website](https://img.shields.io/badge/oscarmairey.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://oscarmairey.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oscarmairey)
-[![Twitter](https://img.shields.io/badge/@cesarioo__-000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/cesarioo__)
+[![Twitter](https://img.shields.io/badge/@oscarmairey-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/oscarmairey)
 
 </div>
 
