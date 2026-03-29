@@ -41,9 +41,9 @@ I believe technology is a form of art that raises moral questions in its applica
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">VideoMotion Agency</h3>
+<h3 align="center">Chocomotion</h3>
 <div align="center">
-<a href="https://github.com/Cesarioo/videomotion-agency"><img src="https://img.shields.io/badge/AI_video_prospecting-7C3AED?style=for-the-badge" alt="VideoMotion" /></a>
+<a href="https://github.com/Cesarioo/videomotion-agency"><img src="https://img.shields.io/badge/AI_video_prospecting-7C3AED?style=for-the-badge" alt="Chocomotion" /></a>
 <p>Automated personalized video generation for outbound sales. Scrapes websites, enriches data, writes scripts with AI, renders via Remotion at scale.</p>
 <p>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
