@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://oscarmairey.com"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=Oscar+Mairey;Entrepreneur+%C2%B7+Builder+%C2%B7+Deep+Tech" alt="Oscar Mairey" /></a>
+<a href="https://oscarmairey.com"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Oscar+Mairey+%E2%80%94+Entrepreneur+%C2%B7+Builder+%C2%B7+Deep+Tech" alt="Oscar Mairey" /></a>
 
 Building at the intersection of AI, finance, and blockchain.
 
@@ -31,18 +31,9 @@ I believe technology is a form of art that raises moral questions in its applica
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000?style=flat-square&logo=fastify&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
 
 </div>
 
@@ -113,23 +104,6 @@ I believe technology is a form of art that raises moral questions in its applica
 </td>
 </tr>
 </table>
-
----
-
-### GitHub activity
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Cesarioo&theme=transparent&hide_border=true&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED&sideLabels=888888&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesarioo&layout=compact&theme=transparent&hide_border=true&title_color=7C3AED&text_color=888888" width="49%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cesarioo&theme=github-compact&hide_border=true&color=7C3AED&line=7C3AED&point=FFFFFF&area=true&area_color=7C3AED" width="98%" />
-
-</div>
 
 ---
 
